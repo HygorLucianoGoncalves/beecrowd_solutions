@@ -1,29 +1,43 @@
-# 🧠 Beecrowd Solutions in Java
+# Beecrowd Solutions
 
-This repository contains solutions to [beecrowd](https://www.beecrowd.com.br/) problems developed in Java. The focus is to practice algorithms, programming logic and data structure.
+Solutions developed while practicing programming problems on [Beecrowd](https://www.beecrowd.com.br/).
 
-## 📁 project structure
+The repository focuses on programming logic, algorithms, data structures, Java, and SQL.
 
-```
+## Project Structure
+
+```text
 src/
 └── beecrowd/
-├── adHoc/
-├── estruturasebibliotecas/
-├── iniciante/ // Iniciante
-└── teste/
+    ├── adHoc/
+    ├── estruturasBibliotecas/
+    ├── iniciante/
+    ├── teste/
+    └── sql/
 ```
 
-## 🛠 technologies
+## Technologies
 
-- Java 17
-- IntelliJ IDEA / VS Code
-- Modular structure with`package`
+* Java 17
+* SQL
+* IntelliJ IDEA
+* Visual Studio Code
 
----
+## Purpose
 
-## 📚 Objective
-Develop logic and consolidate knowledge in Java with focus on algorithms and competitive programming challenges.
+* Practice programming logic
+* Improve problem-solving skills
+* Study algorithms and data structures
+* Consolidate Java fundamentals
+* Practice SQL
+* Develop consistency through problem solving
 
-Made with 💻 por Hygor Luciano Gonçalves
+## Learning
 
+The solutions in this repository are part of my ongoing programming studies.
 
+The focus is on understanding the problem, developing the algorithm, implementing the solution, and improving the code over time.
+
+## Author
+
+**Hygor Luciano Gonçalves**
