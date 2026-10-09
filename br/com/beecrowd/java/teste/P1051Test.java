@@ -1,6 +1,6 @@
 package br.com.beecrowd.java.teste;
 
-import br.com.beecrowd.java.iniciante.P1051;
+import br.com.beecrowd.java.iniciante.java.P1051;
 
 public class P1051Test {
     public static void main(String[] args) {
